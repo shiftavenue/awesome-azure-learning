@@ -63,6 +63,7 @@ These references are useful across all certifications.
 | [Azure Hands-On Labs](https://www.microsoft.com/en-ca/sites/azurehands-onlabs/) | Free exclusive workshops to expand knowledge of Azure services through a hands-on experience.                             | MSFT   |
 |        [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs/)        | Plenty of slef-paced labs and instructor-led workshops here.                                                              |
 |              [Azure DevOps Labs](https://www.azuredevopslabs.com/)              | These labs will help you to get started with Azure DevOps services to automate software delivery and meet business needs. | MSFT   |
+| [The Work Gym Azure course](https://theworkgym.com/azure/) | Browser labs on subscriptions, Entra identities, VNets, App Service and storage, each task checked; independent, first unit free. |
 
 
 
